@@ -1,6 +1,4 @@
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-streamlit-option-menu
+cd F:\STREAMLIT
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
